@@ -1,0 +1,45 @@
+body
+{
+    background-color: rgb(209, 1, 98);
+}
+
+h1
+{
+    font-family: 'Aclonica', sans-serif;
+    font-size: xxx-large;
+}
+
+#score
+{
+    font-size: x-large;
+    margin-left: -1000px;
+    font-weight: bold;
+}
+
+#timer
+{
+    font-size: x-large;
+    float: right;
+    margin-right: 100px;
+    font-weight: bold;
+}
+
+#sketch_drawn
+{
+    color: rgb(0, 255, 89);
+    font-size: xx-large;
+    font-weight: bolder;
+    font-family: cursive;
+}
+
+#your_sketch
+{
+    font-size: x-large;
+    font-weight: bold;
+}
+
+#confidence
+{
+    font-size: x-large;
+    font-weight: bold;
+}
